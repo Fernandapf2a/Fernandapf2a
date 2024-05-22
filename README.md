@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :❤😎
 
-Meu nome é Fernanda Santos
+   Meu nome é Fernanda Santos
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -9,8 +9,6 @@ Meu nome é Fernanda Santos
 ### Você pode entrar em contato comigo :mailbox
 
 fernandasantos09290@gmail.com
-
-
 
 ![](lhttps://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gifink)
 
